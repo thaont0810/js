@@ -1,8 +1,7 @@
 $(document).ready(function () {
 
-  var listUser = [];
   const getListUser = () => {
-    listUser = $('.list-user .item').map(function () {
+    return $('.list-user .item').map(function () {
       return $(this).attr("data-user-id");
     }).get();
   };
@@ -24,30 +23,23 @@ $(document).ready(function () {
 
   var newOrder = [];
   $('#btn-save').click(() => {
-    getListUser();
-    newOrder = listUser;
+    newOrder = getListUser();
     localStorage.setItem('lists', JSON.stringify(newOrder));
-    load();
   });
 
-  var btnBottom = $('.btn-bottom'),
-    btnTop = $('.btn-top'),
-    btnDel = $('.btn-del');
-
-  btnBottom.click(function () {
+  $(document).on('click', '.btn-bottom', function () {
     $(this).parents('.item').appendTo('.list-user');
-    localStorage.setItem('lists', JSON.stringify(newOrder));
-    load();
   });
-  btnTop.click(function () {
+
+  $(document).on('click', '.btn-top', function () {
     $(this).parents('.item').prependTo('.list-user');
   });
-  btnDel.click(function () {
+
+  $(document).on('click', '.btn-del', function () {
     $(this).parents('.item').remove();
   });
 
   const load = () => {
-
     var data = localStorage.getItem('lists');
     if (!data) localStorage.setItem('lists', JSON.stringify(newOrder));
 
