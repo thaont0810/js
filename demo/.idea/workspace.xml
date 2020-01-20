@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e010d957-c3c5-4448-8887-3b394b69acd0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W0mcAJMJvyV39hCVmFsvg0JtdR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../You-Dont-Know-JS" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e010d957-c3c5-4448-8887-3b394b69acd0" name="Default Changelist" comment="" />
+      <created>1578294963010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578294963010</updated>
+      <workItem from="1578294964378" duration="5297000" />
+      <workItem from="1578359284706" duration="1745000" />
+      <workItem from="1578467795047" duration="9619000" />
+      <workItem from="1578531532290" duration="17112000" />
+      <workItem from="1578877372576" duration="7799000" />
+      <workItem from="1578963755418" duration="3294000" />
+      <workItem from="1579136711710" duration="26094000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2343" y="289" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578381832467">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2343" y="289" width="424" height="484" key="FileChooserDialogImpl/1600.0.1920.1080/0.27.1600.873@1600.0.1920.1080" timestamp="1578381832467" />
+    <state x="2049" y="166" key="SettingsEditor" timestamp="1578470942836">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2049" y="166" key="SettingsEditor/1600.0.1920.1080/0.27.1600.873@1600.0.1920.1080" timestamp="1578470942836" />
+    <state x="2216" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1579136711934">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2216" y="358" key="com.intellij.ide.util.TipDialog/1600.0.1920.1080/0.27.1600.873@1600.0.1920.1080" timestamp="1579136711934" />
+    <state x="2126" y="228" width="868" height="606" key="find.popup" timestamp="1579158127383">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2126" y="228" width="868" height="606" key="find.popup/1600.0.1920.1080/0.27.1600.873@1600.0.1920.1080" timestamp="1579158127383" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1578295230369">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/1600.0.1920.1080/0.27.1600.873@1600.0.1920.1080" timestamp="1578295230369" />
+    <state x="2224" y="242" key="run.anything.popup" timestamp="1579159783998">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2224" y="242" key="run.anything.popup/1600.0.1920.1080/0.27.1600.873@1600.0.1920.1080" timestamp="1579159783998" />
+  </component>
+</project>
